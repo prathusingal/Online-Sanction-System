@@ -1,3 +1,5 @@
+This is Django application made for sanction permissions for booking of lecture halls, auditorium, labs, event permissions and reimbursement requests from respective authorities by different cultural clubs and technical societies of the institute.
+
 Install Backend Dependencies:
 
 You can create a virtual environment to run this project. In your virtual environment, install django3.0. Along with django, you have to install pillow, django-widget-tweaks and django-crispy forms.
