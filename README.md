@@ -1,6 +1,13 @@
+## Online Approval System Demo ##
+
+![Demo](https://github.com/prathusingal/Online-Sanction-System/blob/master/Images/Online%20Approval%20System%20Video.gif)
+
+## About ##
+
 This is Django application made for sanction permissions for booking of lecture halls, auditorium, labs, event permissions and reimbursement requests from respective authorities by different cultural clubs and technical societies of the institute.
 
-Install Backend Dependencies:
+
+## Install Backend Dependencies: ##
 
 You can create a virtual environment to run this project. In your virtual environment, install django3.0. Along with django, you have to install pillow, django-widget-tweaks and django-crispy forms.
 
